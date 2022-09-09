@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RotateStick
+  - Checkpoint
+  - FallDetector
+  - Path
+  - Ground
+  - Backpack
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Checkpoint
+  - RotateStick
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1397212077
+    locked: 0
+  - name: Ground
+    uniqueID: 3771058179
+    locked: 0
+  - name: Player
+    uniqueID: 3969674343
+    locked: 0
+  - name: Decorative
+    uniqueID: 1314823821
+    locked: 0
